@@ -1,4 +1,4 @@
-# Walmart Inventory & Sales Intelligence Analysis
+# Retail Sales Customer Analytics
 
 ## Project Overview
 
